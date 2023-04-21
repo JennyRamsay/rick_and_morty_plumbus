@@ -1,0 +1,12 @@
+.list-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 0;
+    width: auto;
+    text-align: center;
+    align-items: center;
+}
